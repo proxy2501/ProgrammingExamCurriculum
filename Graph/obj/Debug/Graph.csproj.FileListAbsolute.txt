@@ -1,0 +1,5 @@
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Graph\bin\Debug\Graph.dll
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Graph\bin\Debug\Graph.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Graph\obj\Debug\Graph.dll
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Graph\obj\Debug\Graph.pdb

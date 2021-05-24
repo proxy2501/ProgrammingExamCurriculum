@@ -1,0 +1,6 @@
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Mutex_\bin\Debug\Mutex_.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Mutex_\bin\Debug\Mutex_.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Mutex_\bin\Debug\Mutex_.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Mutex_\obj\Debug\Mutex_.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Mutex_\obj\Debug\Mutex_.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Mutex_\obj\Debug\Mutex_.pdb

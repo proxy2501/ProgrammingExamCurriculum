@@ -1,0 +1,14 @@
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\bin\Debug\TCPClient.exe.config
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\bin\Debug\TCPClient.exe
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\bin\Debug\TCPClient.pdb
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\obj\Debug\TCPClient.exe
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\obj\Debug\TCPClient.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\bin\Debug\TCPClient.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\bin\Debug\TCPClient.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\bin\Debug\TCPClient.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\obj\Debug\TCPClient.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPClient\obj\Debug\TCPClient.pdb

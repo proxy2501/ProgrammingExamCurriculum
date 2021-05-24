@@ -1,0 +1,7 @@
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BuilderPattern\bin\Debug\BuilderPattern.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BuilderPattern\bin\Debug\BuilderPattern.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BuilderPattern\obj\Debug\BuilderPattern.csprojAssemblyReference.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BuilderPattern\obj\Debug\BuilderPattern.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BuilderPattern\obj\Debug\BuilderPattern.pdb

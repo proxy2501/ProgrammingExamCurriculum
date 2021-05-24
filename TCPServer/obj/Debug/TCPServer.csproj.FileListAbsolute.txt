@@ -1,0 +1,13 @@
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\bin\Debug\TCPServer.exe.config
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\bin\Debug\TCPServer.exe
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\bin\Debug\TCPServer.pdb
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\obj\Debug\TCPServer.exe
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\obj\Debug\TCPServer.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\bin\Debug\TCPServer.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\bin\Debug\TCPServer.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\bin\Debug\TCPServer.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\obj\Debug\TCPServer.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\TCPServer\obj\Debug\TCPServer.pdb

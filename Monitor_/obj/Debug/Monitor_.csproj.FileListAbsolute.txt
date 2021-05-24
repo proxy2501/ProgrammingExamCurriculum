@@ -1,0 +1,7 @@
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Monitor_\bin\Debug\Monitor_.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Monitor_\bin\Debug\Monitor_.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Monitor_\bin\Debug\Monitor_.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Monitor_\obj\Debug\Monitor_.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Monitor_\obj\Debug\Monitor_.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Monitor_\obj\Debug\Monitor_.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\Monitor_\obj\Debug\Monitor_.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\ObserverPattern\bin\Debug\ObserverPattern.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\ObserverPattern\bin\Debug\ObserverPattern.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\ObserverPattern\obj\Debug\ObserverPattern.csprojAssemblyReference.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\ObserverPattern\obj\Debug\ObserverPattern.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\ObserverPattern\obj\Debug\ObserverPattern.pdb

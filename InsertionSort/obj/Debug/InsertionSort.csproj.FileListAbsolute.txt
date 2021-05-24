@@ -1,0 +1,7 @@
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\InsertionSort\bin\Debug\InsertionSort.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\InsertionSort\bin\Debug\InsertionSort.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\InsertionSort\bin\Debug\InsertionSort.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\InsertionSort\obj\Debug\InsertionSort.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\InsertionSort\obj\Debug\InsertionSort.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\InsertionSort\obj\Debug\InsertionSort.csprojAssemblyReference.cache

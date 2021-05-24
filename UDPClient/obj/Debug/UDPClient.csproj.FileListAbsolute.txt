@@ -1,0 +1,13 @@
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\bin\Debug\UDPClient.exe.config
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\bin\Debug\UDPClient.exe
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\bin\Debug\UDPClient.pdb
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\obj\Debug\UDPClient.exe
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\obj\Debug\UDPClient.pdb
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\obj\Debug\UDPClient.csprojAssemblyReference.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\bin\Debug\UDPClient.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\bin\Debug\UDPClient.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\bin\Debug\UDPClient.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\obj\Debug\UDPClient.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPClient\obj\Debug\UDPClient.pdb

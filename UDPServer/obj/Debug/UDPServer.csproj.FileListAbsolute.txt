@@ -1,0 +1,14 @@
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\bin\Debug\UDPServer.exe.config
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\bin\Debug\UDPServer.exe
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\bin\Debug\UDPServer.pdb
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\obj\Debug\UDPServer.csprojAssemblyReference.cache
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\obj\Debug\UDPServer.exe
+D:\Mikkel\Documents\Datamatiker\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\obj\Debug\UDPServer.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\bin\Debug\UDPServer.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\bin\Debug\UDPServer.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\bin\Debug\UDPServer.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\obj\Debug\UDPServer.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\obj\Debug\UDPServer.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\UDPServer\obj\Debug\UDPServer.csprojAssemblyReference.cache

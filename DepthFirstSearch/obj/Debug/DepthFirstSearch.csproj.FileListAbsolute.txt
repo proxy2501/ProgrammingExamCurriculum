@@ -1,0 +1,10 @@
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\DepthFirstSearch\bin\Debug\DepthFirstSearch.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\DepthFirstSearch\bin\Debug\DepthFirstSearch.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\DepthFirstSearch\bin\Debug\Graph.dll
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\DepthFirstSearch\bin\Debug\Graph.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\DepthFirstSearch\obj\Debug\DepthFirstSearch.csprojAssemblyReference.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\DepthFirstSearch\obj\Debug\DepthFirstSearch.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\DepthFirstSearch\obj\Debug\DepthFirstSearch.csproj.CopyComplete
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\DepthFirstSearch\obj\Debug\DepthFirstSearch.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\DepthFirstSearch\obj\Debug\DepthFirstSearch.pdb

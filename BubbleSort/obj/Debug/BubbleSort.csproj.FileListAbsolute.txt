@@ -1,0 +1,6 @@
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BubbleSort\bin\Debug\BubbleSort.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BubbleSort\bin\Debug\BubbleSort.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BubbleSort\bin\Debug\BubbleSort.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BubbleSort\obj\Debug\BubbleSort.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\BubbleSort\obj\Debug\BubbleSort.pdb

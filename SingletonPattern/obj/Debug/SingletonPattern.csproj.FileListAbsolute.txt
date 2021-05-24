@@ -1,0 +1,6 @@
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\SingletonPattern\bin\Debug\SingletonPattern.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\SingletonPattern\bin\Debug\SingletonPattern.pdb
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\SingletonPattern\obj\Debug\SingletonPattern.exe
+D:\Mikkel\Documents\Dania\3 semester eksamen\MyExam\Dania.ProgrammingExam\SingletonPattern\obj\Debug\SingletonPattern.pdb
